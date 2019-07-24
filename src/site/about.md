@@ -12,9 +12,9 @@ We'll begin with an exploration of what's possible for your business.
 
 To get this going click here: 
 
-<div class="nakedLink">
+<div class="button, warning">
 
-<p class="btn-border"><a class="btn, warning" href="mailto:sherrie.g5@gmail.com" target="blank">Launch sequence</a></p>
+<a href="mailto:sherrie.g5@gmail.com" target="blank">Launch sequence</a>
 
 </div>
 
