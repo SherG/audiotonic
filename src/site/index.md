@@ -11,7 +11,7 @@ Alexa skills are interactive voice apps designed for use with Amazon devices lik
 
 - AudioTonic creates new skills that use Alexa's built-in capabilities
 - Alexa's abilities include: answering questions, recommending local businesses, playing music, querying a data source, and providing news updates 
-- Alexa skills come in a variety of <a href="https://www.amazon.com/b?ie=UTF8&node=13727921011" target="blank">categories</a> like "Business & Finance" and "Health & Fitness"
+- Alexa skills come in a variety of <a href="https://www.amazon.com/b?ie=UTF8&node=13727921011" target="blank">categories</a> like <a href="https://www.amazon.com/s/ref=lp_13727921011_nr_n_0?fst=as%3Aoff&rh=n%3A13727921011%2Cn%3A%2113727922011%2Cn%3A14284819011&bbn=13727922011&ie=UTF8&qid=1563946288&rnid=13727922011" target="blank">Business & Finance</a> and <a href="https://www.amazon.com/s/ref=lp_13727921011_nr_n_6?fst=as%3Aoff&rh=n%3A13727921011%2Cn%3A%2113727922011%2Cn%3A14284831011&bbn=13727922011&ie=UTF8&qid=1563946288&rnid=13727922011" target="blank">Health & Fitness</a>
 
 
 ## How are businesses using Alexa skills? 
