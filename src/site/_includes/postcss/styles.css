@@ -204,17 +204,13 @@ footer {
 /* button */
 
 .btn {
-  border: none;
+  border: 1px;
+  border-color: white;
   font-size: 1.7em;
   cursor: pointer;
   display: inline-block;
 }
 
-
-.info:hover {
-  background: #2196F3;
-  color: white;
-}
 
 .warning {
   color: #F9DC09;
