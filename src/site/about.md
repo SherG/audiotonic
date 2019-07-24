@@ -14,7 +14,7 @@ To get this going click here:
 
 <div class="nakedLink">
 
-<a class="btn, btn-border, warning" href="mailto:sherrie.g5@gmail.com" target="blank">Launch sequence</a>
+<p class="btn-border"><a class="btn, warning" href="mailto:sherrie.g5@gmail.com" target="blank">Launch sequence</a></p>
 
 </div>
 
