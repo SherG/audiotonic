@@ -203,23 +203,19 @@ footer {
 
 /* button */
 
-.btn {
-  font-size: 1.7em;
-  cursor: pointer;
+.button {
+  background-color: #F9DC09;
+  border: none;
+  color: royalblue;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
   display: inline-block;
+  font-size: 1.3em;
+  margin: 4px 2px;
+  cursor: pointer;
 }
 
-.btn-border {
-  border-width: 2px;
-  border-color: white;
-  border-style: solid;
-  border-radius: 5px;
-}
-
-
-.warning {
-  color: #F9DC09;
-}
 
 .warning:hover {
   background: orange;
