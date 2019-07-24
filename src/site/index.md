@@ -27,7 +27,7 @@ Businesses create Alexa apps to provide value to their target audience. It can b
 ## What's next on the Alexa horizon? 
 
 - Automotive is the new frontier. With Echo Auto you'll be able to query your car from within or another location. 
-- Ask questions like "What's my EV charge status?" "Is my Tesla on fire?" "What's my fuel level?"
+- Ask questions like "Is my Tesla on fire?" and "What's my EV charge status?"
 - Enjoy voice-controlled navigation. Set appointments, make calls, add items to a task or shopping list, play audiobooks or music from various sources
 - Create routine, location-based actions.
 - Amazon has forged partnerships with Ford, BMW, Hyundai, and Volkswagen. <a href="https://www.amazon.com/Introducing-Echo-Auto-first-your/dp/B0753K4CWG/" target="blank">Echo Auto is currently available by invitation only. 
