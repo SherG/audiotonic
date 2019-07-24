@@ -12,13 +12,6 @@ Alexa skills are interactive voice apps designed for use with Amazon devices lik
 - AudioTonic creates new skills that use Alexa's built-in capabilities
 - Alexa's abilities include: answering questions, recommending local businesses, playing music, querying a data source, and providing news updates 
 - Alexa skills come in a variety of <a href="https://www.amazon.com/b?ie=UTF8&node=13727921011" target="blank">categories</a> like "Business & Finance" and "Health & Fitness"
-- 
-- A tiny CSS pipeline with PostCSS
-- A tiny inline JS pipeline. (<a href="#" class="btn-log">Test a console.log message</a>)
-- JS [search index](/search.json) generator
-- [Netlify Dev](https://www.netlify.com/products/dev) for testing [Netlify redirects](https://netlify.com/docs/redirects/)
-- Serverless (FaaS) development pipeline with [Netlify Dev](https://www.netlify.com/products/dev) and [Netlify Functions](https://www.netlify.com/products/functions)
-
 
 
 ## About Alexa Devices
@@ -50,7 +43,9 @@ These links were sourced from [hawksworx.com](https://www.hawksworx.com/feed.jso
 ## What's next on the Alexa horizon? 
 
 - Automotive is the new frontier. With Echo Auto you'll be able to query your car from within or another location. 
-- Query your car from home or work by asking questions like "What's my EV charge status?" "What's my fuel level?"
+- Ask questions like "What's my EV charge status?" "What's my fuel level?"
+- Enjoy voice-controlled navigation. Set appointments, make calls, add items to a task or shopping list, play audiobooks or music from various sources
+- Create routine, location-based actions.
 - Amazon has forged partnerships with Ford, BMW, Hyundai, and Volkswagen. <a href="https://www.amazon.com/Introducing-Echo-Auto-first-your/dp/B0753K4CWG/" target="blank">Echo Auto is currently available by invitation only. 
   
 
