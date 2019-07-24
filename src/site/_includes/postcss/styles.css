@@ -216,7 +216,7 @@ footer {
 }
 
 
-.warning:hover {
+.button:hover {
   background: orange;
   color: white;
 }
