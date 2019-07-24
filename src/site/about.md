@@ -14,7 +14,7 @@ To get this going click here:
 
 <div class="nakedLink">
 
-![Push the red button](mailto:sherrie.g5@gmail.com)
+![Push the red button]<a href="mailto:sherrie.g5@gmail.com" target="blank">
 
 </div>
 
