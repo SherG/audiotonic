@@ -19,7 +19,7 @@ Alexa skills are interactive voice apps designed for use with Amazon devices lik
 Businesses create Alexa apps to provide value to their target audience. It can be part of a content marketing strategy or directly focoused on a product or service you provide. 
 
 - Skills be provide information or coaching on a topic of interest to your community
-- Skills can allow you to manage software apps -- like email -- using your voice
+- Skills can allow you to manage software apps — like email — using your voice
 - Productivity skills enable users to make phone calls, manage projects and schedules, track shipments, and much more
 - In conjunction with IoT devices Alexa can check your home for issues like water leaks 
 
