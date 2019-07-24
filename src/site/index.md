@@ -14,30 +14,14 @@ Alexa skills are interactive voice apps designed for use with Amazon devices lik
 - Alexa skills come in a variety of <a href="https://www.amazon.com/b?ie=UTF8&node=13727921011" target="blank">categories</a> like "Business & Finance" and "Health & Fitness"
 
 
-## About Alexa Devices
+## How are businesses using Alexa skills? 
 
-The pages found in in the posts
+Businesses create Alexa apps to provide value to their target audience. It can be part of a content marketing strategy or directly focoused on a product or service you provide. 
 
-<ul class="listing">
-{%- for page in collections.post -%}
-  <li>
-    <a href="{{ page.url }}">{{ page.data.title }}</a> -
-    <time datetime="{{ page.date }}">{{ page.date | dateDisplay("LLLL d, y") }}</time>
-  </li>
-{%- endfor -%}
-</ul>
-
-## Links from an external data source
-
-These links were sourced from [hawksworx.com](https://www.hawksworx.com/feed.json) at build time.
-
-<ul class="listing">
-{%- for item in hawksworx.entries.slice(0,5) -%}
-  <li>
-    <a href="{{ item.link }}">{{ item.title }}</a>
-  </li>
-{%- endfor -%}
-</ul>
+- Skills be provide information or coaching on a topic of interest to your community
+- Skills can allow you to manage software apps -- like email -- using your voice
+- Productivity skills enable users to make phone calls, manage projects and schedules, track shipments, and much more
+- In conjunction with IoT devices Alexa can check your home for issues like water leaks 
 
 
 ## What's next on the Alexa horizon? 
@@ -48,43 +32,6 @@ These links were sourced from [hawksworx.com](https://www.hawksworx.com/feed.jso
 - Create routine, location-based actions.
 - Amazon has forged partnerships with Ford, BMW, Hyundai, and Volkswagen. <a href="https://www.amazon.com/Introducing-Echo-Auto-first-your/dp/B0753K4CWG/" target="blank">Echo Auto is currently available by invitation only. 
   
-
-## Running locally
-
-```bash
-# install the dependencies
-npm install
-
-# External data sources can be stashed locally
-npm run seed
-
-# It will then be available locally for building with
-npm run start
-```
-
-## Add some Netlify helpers
-Netlify Dev adds the ability to use Netlify redirects, proxies, and serverless functions.
-
-```bash
-# install the Netlify CLI in order to get Netlify Dev
-npm install -g netlify-cli
-
-# run a local server with some added Netlify sugar in front of Eleventy
-netlify dev
-```
-
-A serverless functions pipeline is included via Netlify Dev. By running `netlify dev` you'll be able to execute any of your serverless functions directly like this:
-
-- [/.netlify/functions/hello](/.netlify/functions/hello)
-- [/.netlify/functions/fetch-joke](/.netlify/functions/fetch-joke)
-
-### Redirects and proxies
-
-Netlify's Redirects API can provide friendlier URLs as proxies to these URLs.
-
-- [/api/hello](/api/hello)
-- [/api/fetch-joke](/api/fetch-joke)
-
 
 
 
