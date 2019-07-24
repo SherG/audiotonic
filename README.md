@@ -12,9 +12,6 @@ This project scaffold includes:
 - Serverless (FaaS) development pipeline with [Netlify Dev](https://www.netlify.com/products/dev) and [Netlify Functions](https://www.netlify.com/products/functions)
 
 
-![Eleventy screenshot](./eleventyone-template.jpg)
-
-
 
 ## Prerequisites
 
