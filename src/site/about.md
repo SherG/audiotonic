@@ -14,7 +14,7 @@ To get this going click here:
 
 <div class="nakedLink">
 
-![Push the red button]<a href="mailto:sherrie.g5@gmail.com" target="blank">
+<a class="btn, warning" href="mailto:sherrie.g5@gmail.com" target="blank">Launch sequence</a>
 
 </div>
 
