@@ -30,7 +30,7 @@ Businesses create Alexa apps to provide value to their target audience. It can b
 - Ask questions like "Is my Tesla on fire?" and "What's my EV charge status?"
 - Enjoy voice-controlled navigation. Set appointments, make calls, add items to a task or shopping list, play audiobooks or music from various sources
 - Create routine, location-based actions.
-- Amazon has forged partnerships with Ford, BMW, Hyundai, and Volkswagen. <a href="https://www.amazon.com/Introducing-Echo-Auto-first-your/dp/B0753K4CWG/" target="blank">Echo Auto is currently available by invitation only. 
+- Amazon has forged partnerships with BMW, Audi, Hyundai, Ford, Toyota, and Volkswagen. <a href="https://www.amazon.com/Introducing-Echo-Auto-first-your/dp/B0753K4CWG/" target="blank">Echo Auto is currently available by invitation only. 
   
 
 
