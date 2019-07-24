@@ -200,3 +200,29 @@ footer {
     border-bottom: solid 1px $text-color;
   }
 }
+
+/* button */
+
+.btn {
+  border: none;
+  background-color: inherit;
+  font-size: 1.3em;
+  cursor: pointer;
+  display: inline-block;
+}
+
+
+.info:hover {
+  background: #2196F3;
+  color: white;
+}
+
+.warning {
+  color: orange;
+}
+
+.warning:hover {
+  background: #ff9800;
+  color: white;
+}
+
