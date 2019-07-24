@@ -218,6 +218,8 @@ footer {
 
 .button:hover {
   background-color: orange;
+  border-radius: 5px;
+  text-decoration: none;
   color: white;
 }
 
