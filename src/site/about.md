@@ -6,18 +6,18 @@ subtitle: Plan your Alexa skill today
 
 ## Let's start something
 
-We'll begin with an exploration of what's possible for your business.
+Explore of what's possible for your business.
 
-## I'm in
+## Okay, I'm in
 
-To get this going click here: 
+Good. Start here:
 
-<a class="button" href="mailto:sherrie.g5@gmail.com" target="blank">Launch sequence</a>
+<a class="button" href="mailto:sherrie.g5@gmail.com">Launch sequence</a>
 
 
 ## 👆 Wait, what happens when I click that button?
 
-Good question. Here's what it will do...
+Good question. Here's what will happen . . .
 
 1. We'll contact you to schedule a call to discuss your business objectives
 2. You'll receive a follow-up meeting that sketches out possibilities for skills. You decide the next step
