@@ -12,7 +12,7 @@ We'll begin with an exploration of what's possible for your business.
 
 To get this going click here: 
 
-<a class="button" href="mailto:sherrie.g5@gmail.com" target="blank">Launch sequence</a>
+<a class="button, warning" href="mailto:sherrie.g5@gmail.com" target="blank">Launch sequence</a>
 
 
 ## 👆 Wait, what happens when I click that button?
