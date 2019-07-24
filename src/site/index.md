@@ -7,7 +7,7 @@ layout: layouts/base.njk
 
 ## What are Alexa skills?
 
-Alexa skills are interactive voice apps designed for use with Amazon devices like the Echo Spot, Echo Show and <a href="https://www.amazon.com/Introducing-Echo-Auto-first-your/dp/B0753K4CWG/" target="blank">Echo Auto</a>. and Alexa-enabled third-party devices and appliances.
+Alexa skills are interactive voice apps designed for use with Amazon devices like the Echo Spot, Echo Show and <a href="https://www.amazon.com/Introducing-Echo-Auto-first-your/dp/B0753K4CWG/" target="blank">Echo Auto</a>. 
 
 - AudioTonic creates new skills that use Alexa's built-in capabilities
 - Alexa's abilities include: answering questions, recommending local businesses, playing music, querying a data source, and providing news updates 
@@ -47,9 +47,12 @@ These links were sourced from [hawksworx.com](https://www.hawksworx.com/feed.jso
 </ul>
 
 
-## Prerequisite
+## What's next on the Alexa horizon? 
 
-- [Node and NPM](https://nodejs.org/)
+- Automotive is the new frontier. With Echo Auto you'll be able to query your car from within or another location. 
+- Query your car from home or work by asking questions like "What's my EV charge status?" "What's my fuel level?"
+- Amazon has forged partnerships with Ford, BMW, Hyundai, and Volkswagen. <a href="https://www.amazon.com/Introducing-Echo-Auto-first-your/dp/B0753K4CWG/" target="blank">Echo Auto is currently available by invitation only. 
+  
 
 ## Running locally
 
