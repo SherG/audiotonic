@@ -4,9 +4,9 @@ layout: layouts/base.njk
 subtitle: Plan your Alexa skill today
 ---
 
-## Let's start something
+## Explore what's possible
 
-Explore of what's possible for your business.
+We'll start with a discovery call.
 
 ## Okay, I'm in
 
@@ -19,6 +19,6 @@ Good. Start here:
 
 Good question. Here's what will happen . . .
 
-1. We'll contact you to schedule a call to discuss your business objectives
-2. You'll receive a follow-up meeting that sketches out possibilities for skills. You decide the next step
+1. We'll set up a call to discuss your business objectives
+2. We'll have a second meeting to explore skills for your business. You decide the next step
 3. Easy-peasy
