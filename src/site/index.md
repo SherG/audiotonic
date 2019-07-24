@@ -7,10 +7,12 @@ layout: layouts/base.njk
 
 ## What are Alexa skills?
 
-Alexa skills are interactive voice apps designed for use with Amazon devices like the Echo Spot, Echo Dot, and Echo Show.
+Alexa skills are interactive voice apps designed for use with Amazon devices like the Echo Spot, Echo Show and <a href="https://www.amazon.com/Introducing-Echo-Auto-first-your/dp/B0753K4CWG/" target="blank">Echo Auto</a>. and Alexa-enabled third-party devices and appliances.
 
+- AudioTonic creates new skills that use Alexa's built-in capabilities
+- Alexa's abilities include: answering questions, recommending local businesses, playing music, querying a data source, and providing news updates 
 - Alexa skills come in a variety of <a href="https://www.amazon.com/b?ie=UTF8&node=13727921011" target="blank">categories</a> like "Business & Finance" and "Health & Fitness"
-- A date format filter for Nunjucks based on [Luxon](https://moment.github.io/luxon)
+- 
 - A tiny CSS pipeline with PostCSS
 - A tiny inline JS pipeline. (<a href="#" class="btn-log">Test a console.log message</a>)
 - JS [search index](/search.json) generator
