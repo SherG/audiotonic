@@ -206,10 +206,11 @@ footer {
 .button {
   background-color: #E8CE0B;
   border: none;
-  color: royalblue;
-  padding: 15px 32px;
+  border-radius: 5px;
+  color: royalblue !important;
+  padding: 7px 15px;
   text-align: center;
-  text-decoration: none;
+  text-decoration: none !important;
   display: inline-block;
   margin: 4px 2px;
   cursor: pointer;
