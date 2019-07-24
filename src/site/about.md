@@ -14,7 +14,7 @@ To get this going click here:
 
 <div class="nakedLink">
 
-[![Deploy to Netlify](mailto:sherrie.g5@gmail.com)
+[![Push the red button](mailto:sherrie.g5@gmail.com)
 
 </div>
 
