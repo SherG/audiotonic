@@ -204,7 +204,7 @@ footer {
 /* button */
 
 .button {
-  background-color: #E8CE0B;
+  background-color: orange;
   border: none;
   border-radius: 5px;
   color: royalblue !important;
@@ -218,10 +218,10 @@ footer {
 
 
 .button:hover {
-  background-color: orange;
+  background-color: #E8CE0B;  
   border-radius: 5px;
   text-decoration: none !important;
-  color: white !important;
+  color: royalblue !important;
 }
 
 
