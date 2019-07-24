@@ -12,11 +12,8 @@ We'll begin with an exploration of what's possible for your business.
 
 To get this going click here: 
 
-<div class="button, warning">
+<a class="button" href="mailto:sherrie.g5@gmail.com" target="blank">Launch sequence</a>
 
-<a href="mailto:sherrie.g5@gmail.com" target="blank">Launch sequence</a>
-
-</div>
 
 ## 👆 Wait, what happens when I click that button?
 
