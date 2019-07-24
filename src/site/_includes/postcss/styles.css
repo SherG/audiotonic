@@ -204,13 +204,16 @@ footer {
 /* button */
 
 .btn {
+  font-size: 1.7em;
+  cursor: pointer;
+  display: inline-block;
+}
+
+.btn-border {
   border-width: 2px;
   border-color: white;
   border-style: solid;
   border-radius: 5px;
-  font-size: 1.7em;
-  cursor: pointer;
-  display: inline-block;
 }
 
 
