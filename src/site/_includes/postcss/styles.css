@@ -204,8 +204,10 @@ footer {
 /* button */
 
 .btn {
-  border: 1px;
+  border-width: 2px;
   border-color: white;
+  border-style: solid;
+  border-radious: 5px;
   font-size: 1.7em;
   cursor: pointer;
   display: inline-block;
