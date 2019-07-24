@@ -1,15 +1,15 @@
 ---
-title: EleventyOne
-subtitle: A project scaffold for getting building with Eleventy quickly.<br /> Made by <a href="https://twitter.com/philhawksworth">Phil</a> for <a href="https://twitter.com/philhawksworth">Phil</a>, but perhaps you might also find it useful.
+title: AudioTonic
+subtitle: We create Alexa skills for small businesses and non-profits
 layout: layouts/base.njk
 ---
 
 
-## This site is a starting point
+## What are Alexa skills?
 
-From this point we should already have:
+Alexa skills are interactive voice apps designed for use with Amazon devices like the Echo Spot, Echo Dot, and Echo Show.
 
-- [Eleventy](https://11ty.io) with a skeleton site
+- Alexa skills come in a variety of <a href="https://www.amazon.com/b?ie=UTF8&node=13727921011" target="blank">categories</a> like "Business & Finance" and "Health & Fitness"
 - A date format filter for Nunjucks based on [Luxon](https://moment.github.io/luxon)
 - A tiny CSS pipeline with PostCSS
 - A tiny inline JS pipeline. (<a href="#" class="btn-log">Test a console.log message</a>)
@@ -19,7 +19,7 @@ From this point we should already have:
 
 
 
-## Post pages
+## About Alexa Devices
 
 The pages found in in the posts
 
