@@ -17,7 +17,7 @@ Good. Start here:
 
 ## 👆 Wait, what happens when I click that button?
 
-Good question. Here's what will happen . . .
+Good question. Here's what will happen...
 
 1. We'll set up a call to discuss your business objectives
 2. We'll have a second meeting to explore skills for your business. You decide the next step
