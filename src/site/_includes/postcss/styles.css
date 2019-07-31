@@ -202,13 +202,12 @@ footer {
   }
 }
 
-/* button */
 
 .button {
   background-color: orange;
   border: none;
   border-radius: 5px;
-  color: white !important;
+  color: #ffffff !important;
   padding: 7px 15px;
   text-align: center;
   text-decoration: none !important;
@@ -222,7 +221,7 @@ footer {
   background-color: #E8CE0B;  
   border-radius: 5px;
   text-decoration: none !important;
-  color: royalblue !important;
+  color: #4169e1 !important;
 }
 
 
