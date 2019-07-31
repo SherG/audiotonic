@@ -109,7 +109,6 @@ a:focus {
 
 .nav {
   padding-top: 3em;
-}
 
   li {
     display: inline;
@@ -201,6 +200,7 @@ footer {
     border-bottom: solid 1px $text-color;
   }
 }
+
 
 
 .button {
