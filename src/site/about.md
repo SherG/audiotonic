@@ -20,5 +20,5 @@ Good. Start here:
 Good question. Here's what will happen...
 
 1. We'll set up a call to discuss your business objectives
-2. We'll have a second meeting to explore skills for your business. You decide the next step
+2. We'll have a second meeting to explore skills for your business. You decide the next step.
 3. Easy-peasy
